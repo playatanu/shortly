@@ -1,37 +1,13 @@
-# shortly-server
-
-URL Shortner Backend
-
-
 ## Screenshots
 
 ![App Screenshot](https://github.com/playatanu/assets/blob/main/shortly.gif)
-
-  
-## Features
-
-- 
-- 
-- 
-
-
-  
+ 
 ## Tech Stack
 
 **Client:** React JS
 
 **Server:** Express JS, Socket.io
 
-  
-## Download
-
-**Android:** 
-
-**ISO:** 
-## Lessons Learned
-Socket.io
-
-  
 ## Feedback
 
 If you have any feedback, please reach out to us at playatanu@gmail.com
